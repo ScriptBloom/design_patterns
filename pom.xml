@@ -10,6 +10,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>strategy_mode</module>
+        <module>singleton_mode</module>
+        <module>observer_patterns</module>
+        <module>decorator_patterns</module>
     </modules>
 
 

@@ -13,6 +13,7 @@ import java.util.Iterator;
  */
 public class EnumerationIteratorAdapter implements Iterator {
     private Enumeration enumeration;
+
     public EnumerationIteratorAdapter(Enumeration enumeration){
         this.enumeration = enumeration;
     }

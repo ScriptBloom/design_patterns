@@ -6,15 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="adpater_patterns" />
         <module name="strategy_patterns" />
         <module name="singleton_patterns" />
+        <module name="factory_patterns" />
         <module name="observer_patterns" />
         <module name="facade_patterns" />
         <module name="decorator_patterns" />
-        <module name="facotory_patterns" />
+        <module name="adapter_patterns" />
         <module name="command_patterns" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="adapter_patterns" target="7" />
+    </bytecodeTargetLevel>
   </component>
 </project>

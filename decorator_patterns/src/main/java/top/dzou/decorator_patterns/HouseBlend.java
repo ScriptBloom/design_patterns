@@ -9,6 +9,7 @@ package top.dzou.decorator_patterns;
  * 混合咖啡
  */
 public class HouseBlend extends Beverage{
+
     public HouseBlend(Size size){
         setSize(size);
         if(this.size==Size.UNKNOWN){

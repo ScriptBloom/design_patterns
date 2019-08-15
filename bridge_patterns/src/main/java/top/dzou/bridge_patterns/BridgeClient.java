@@ -4,6 +4,7 @@ package top.dzou.bridge_patterns;
  * @author dingxiang
  * @date 19-8-15 上午10:39
  */
+//测试
 public class BridgeClient {
     public static void main(String[] args) {
         Spicy noSpicy = new WithSpicy();

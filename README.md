@@ -41,4 +41,4 @@ Java设计模式典型案例
 
 [Java设计模式|责任链模式](https://www.dzou.top/post/de32d4c3.html)
 
-[Java设计模式|中介者模式](
+[Java设计模式|中介者模式](https://www.dzou.top/post/6c0cb1a1.html)

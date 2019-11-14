@@ -1,7 +1,7 @@
 # design_mode
 Java设计模式典型案例
 
-参考博客：
+个人博客：
 
 [Java设计模式|策略模式](https://www.dzou.top/post/6c84d9a1.html)
 
